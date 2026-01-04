@@ -1,1 +1,1 @@
-Second file in repository
+second file in git repository
